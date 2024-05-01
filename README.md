@@ -29,7 +29,7 @@
   Bootstrap<br>
   &nbsp;&nbsp;&nbsp;&nbsp;For backend: Express/Node.js, Laravel, Django<br>
   • Databases: MysQL, postgresQL, MongoDB, sqllite3<br>
-  • AI : AI, ML, openAI, Langchain
+  • AI : AI, ML, openAI, Langchain<br>
   > CMS : WordPress, Shopify, Hubspot 
   <br>
 
