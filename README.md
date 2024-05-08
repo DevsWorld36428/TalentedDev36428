@@ -30,7 +30,8 @@
   &nbsp;&nbsp;&nbsp;&nbsp;For backend: Express/Node.js, Laravel, Django<br>
   • Databases: MysQL, postgresQL, MongoDB, sqllite3<br>
   • AI : AI, ML, openAI, Langchain<br>
-  > CMS : WordPress, Shopify, Hubspot 
+  • CMS : WordPress, Shopify, Hubspot <br>
+  • Desktop App development :C# C++ pyQT, Qt, Visual C++, Visual Basic
   <br>
 
   Now I specialize in web development & AI prompt(LLM), and I'm researching Blockchain technologies.<br>So, I'm gonna use it.
