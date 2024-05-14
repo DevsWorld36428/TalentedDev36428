@@ -31,7 +31,9 @@
   • Databases: MysQL, postgresQL, MongoDB, sqllite3<br>
   • AI : AI, ML, openAI, Langchain<br>
   • CMS : WordPress, Shopify, Hubspot <br>
-  • Desktop App development :C# C++ pyQT, Qt, Visual C++, Visual Basic
+  • Desktop App development :C# C++ pyQT, Qt, Visual C++, Visual Basic<br>
+  👍In the blockchain domain, I have hands-on experience with Blockchain,<br> 📌NFT, 📌Smart Contract,
+  📌DEX, 📌DeFi, 📌Solidity, 📌Web3, 📌Truffle, 📌Rust, 📌Solana, and 📌Tokenomics.
   <br>
 
   Now I specialize in web development & AI prompt(LLM), and I'm researching Blockchain technologies.<br>So, I'm gonna use it.
